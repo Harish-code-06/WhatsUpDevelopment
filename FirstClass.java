@@ -13,8 +13,6 @@ public class FirstClass {
 FirstClass gd =new FirstClass();
 gd.getData();
 System.out.println(gd.a);
-SecondClass sc= new SecondClass();
-sc.setData();
 	}
 
 }
