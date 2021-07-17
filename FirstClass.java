@@ -1,7 +1,7 @@
 public class FirstClass {
 	
 	int a=5; 
-	// Added on 17th July
+	// Added on 17th Git Portal
 	
 	public void getData()
 	
